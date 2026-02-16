@@ -178,5 +178,40 @@
       "rating": 0,
       "blurb": "Are you too good at spotting dealbreakers? Love Blind shows you how to blissfully ignore red flags and dive headfirst into questionable relationships. Packed with tips for rationalizing bad behavior, this book is a must-read for the romantically reckless."
     }
-  ]
+  ],
+  "ducks":[{
+    "nickName": "Quackers",
+    "age": 2,
+    "weight": 3.4,
+    "id": 1,
+    "pondId": null
+  },
+  {
+    "nickName": "Sir Honksalot",
+    "age": 5,
+    "weight": 4.85,
+    "id": 2,
+    "pondId": null
+  },
+  {
+    "nickName": "Lady Waddles",
+    "age": 1,
+    "weight": 2.1,
+    "id": 3,
+    "pondId": null
+  },
+  {
+    "nickName": "Mervin",
+    "age": 2,
+    "weight": 5,
+    "id": 4,
+    "pondId": null
+  },
+  {
+    "nickName": "Sir Testalot",
+    "age": 2,
+    "weight": 3.5,
+    "id": 6,
+    "pondId": null
+  }]
 }
